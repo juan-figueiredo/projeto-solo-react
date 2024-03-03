@@ -1,0 +1,17 @@
+.img{
+  width: 300px; /* Largura desejada */
+  height: 200px; /* Altura desejada */
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem{
+  width: 50rem; /* Largura desejada */
+  height: 25rem; /* Altura desejada */
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  left: 35rem;
+  border: 2px solid var(--green-300);
+  border-radius: 8px;
+}
